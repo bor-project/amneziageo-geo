@@ -1,0 +1,24 @@
+# YouTube for clients that route by address. Checked 2026-09-27.
+
+# Google front ends serving YouTube
+64.233.160.0/19
+74.125.0.0/16
+108.177.0.0/17
+142.250.0.0/15
+172.217.0.0/16
+172.253.0.0/16
+173.194.0.0/16
+192.178.0.0/15
+209.85.128.0/17
+216.58.192.0/19
+2001:4860::/32
+2a00:1450::/32
+
+# Video caches of our servers reached over IPv4: RETN, retnukr-hrk3
+87.245.216.0/21
+2a02:2d8::/32
+
+# Video caches of our servers reached over IPv6: Lattelecom, lattelecom-rix5
+195.13.211.0/24
+195.122.29.0/24
+2a02:2330:a::/48
