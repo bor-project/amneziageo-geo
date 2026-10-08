@@ -1,0 +1,12 @@
+# Discord voice servers for clients that route by address. Checked 2026-10-08.
+# The address space the RIPE database holds under the maintainer lir-us-discord1-1-MNT of Discord. Its sites:
+# discord-aedxb1-1 discord-arbue1-1 discord-asia-northeast3-1 discord-ausyd1-1 discord-ausyd1-2 discord-brcoa1-1
+# discord-brcoa1-2 discord-clscl1-1 discord-defra1-1 discord-esmad1-1 discord-frpar1-1 discord-hkhkg1-1
+# discord-inbom1-1 discord-itmil1-1 discord-jptyo1-1 discord-jptyo1-2 discord-nlrtm1-1 discord-robuh1-1
+# discord-rumow2-1 discord-sesto2-1 discord-sgsin1-1 discord-usatl1-1 discord-uschi1-1 discord-usdal1-1
+# discord-usdal1-2 discord-usewr1-1 discord-uslax1-1 discord-usqas1-1 discord-usscz1-1 discord-ussea1-1
+# discord-zajnb1-1
+
+66.22.192.0/18
+195.62.89.0/24
+2a0e:5940::/29

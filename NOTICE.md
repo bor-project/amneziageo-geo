@@ -1,5 +1,8 @@
 # Notices
 
+`src/ip/ag-discord-voice.txt` holds networks read from the [RIPE Database](https://apps.db.ripe.net/db-web-ui/query),
+used under its terms and conditions.
+
 `src/site/ag-tiktok.txt` takes names from `config/socials/tiktok.com.json` of
 [rekryt/iplist](https://github.com/rekryt/iplist), which carries this license:
 
