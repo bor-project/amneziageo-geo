@@ -22,3 +22,7 @@
 195.13.211.0/24
 195.122.29.0/24
 2a02:2330:a::/48
+
+# Video caches of our servers reached over IPv6: EPIX, epix-waw3
+185.225.248.0/24
+2a10:f783:22::/48
